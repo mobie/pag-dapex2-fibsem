@@ -1,0 +1,16 @@
+{
+	"default": {
+		"layers": {
+			"Sample8_control_image": {
+				"color": "white",
+				"contrastLimits": [
+					0.0,
+					255.0
+				],
+				"resolution3dView": 0.0,
+				"showSelectedSegmentsIn3d": false,
+				"showImageIn3d": false
+			}
+		}
+	}
+}

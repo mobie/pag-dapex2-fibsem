@@ -1,0 +1,16 @@
+{
+	"Sample3_image": {
+		"type": "image",
+		"storage": {
+			"local": "local/Sample3_image.xml"
+		},
+		"color": "white",
+		"contrastLimits": [
+			0.0,
+			255.0
+		],
+		"resolution3dView": 0.0,
+		"showSelectedSegmentsIn3d": false,
+		"showImageIn3d": false
+	}
+}

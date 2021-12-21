@@ -1,49 +1,41 @@
 {
-	"FigS3_a": {
-		"layers": {
-			"Sample7_control_image": {
-				"color": "(r\u003d255,g\u003d255,b\u003d255,a\u003d255)",
-				"contrastLimits": [
-					0.0,
-					255.0
-				],
-				"resolution3dView": 0.0,
-				"showSelectedSegmentsIn3d": false,
-				"showImageIn3d": false,
-				"addedTransform": [
-					1.0,
-					0.0,
-					0.0,
-					0.0,
-					0.0,
-					1.0,
-					0.0,
-					0.0,
-					0.0,
-					0.0,
-					1.0,
-					0.0
-				]
-			}
-		},
-		"normView": [
-			"n0.001003765933306473",
-			"n0.0",
-			"n-5.507058653894625E-20",
-			"n-1.8557496463603476",
-			"n0.0",
-			"n0.001003765933306473",
-			"n-5.507058653894625E-20",
-			"n-0.9487028177196334",
-			"n0.0",
-			"n-5.507058653894625E-20",
-			"n0.001003765933306473",
-			"n-0.8255697888239033"
-		],
-		"position": [
-			1848.7872369282177,
-			945.1434704448897,
-			822.4724125717443
-		]
-	}
+  "bookmarks": {
+    "FigS3_a": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "(r=255,g=255,b=255,a=255)",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample7_control_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample7_control_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.001003765933306473,
+          0.0,
+          -5.507058653894625e-20,
+          -1.8557496463603476,
+          0.0,
+          0.001003765933306473,
+          -5.507058653894625e-20,
+          -0.9487028177196334,
+          0.0,
+          -5.507058653894625e-20,
+          0.001003765933306473,
+          -0.8255697888239033
+        ]
+      }
+    }
+  }
 }

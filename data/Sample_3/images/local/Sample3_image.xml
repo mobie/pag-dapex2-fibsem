@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <SpimData version="0.2">
   <BasePath type="relative">.</BasePath>
   <SequenceDescription>
@@ -8,7 +7,7 @@
     <ViewSetups>
       <ViewSetup>
         <id>0</id>
-        <name>channel 1</name>
+        <name>Sample3_image</name>
         <size>3224 1378 2167</size>
         <voxelSize>
           <unit>pixel</unit>

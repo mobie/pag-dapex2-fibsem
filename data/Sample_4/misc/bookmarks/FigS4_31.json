@@ -1,49 +1,41 @@
 {
-	"FigS4_31": {
-		"layers": {
-			"Sample4_image": {
-				"color": "(r\u003d255,g\u003d255,b\u003d255,a\u003d255)",
-				"contrastLimits": [
-					0.0,
-					255.0
-				],
-				"resolution3dView": 0.0,
-				"showSelectedSegmentsIn3d": false,
-				"showImageIn3d": false,
-				"addedTransform": [
-					1.0,
-					0.0,
-					0.0,
-					0.0,
-					0.0,
-					1.0,
-					0.0,
-					0.0,
-					0.0,
-					0.0,
-					1.0,
-					0.0
-				]
-			}
-		},
-		"normView": [
-			"n8.243983931695946E-4",
-			"n0.0",
-			"n0.0",
-			"n-2.0090974536245243",
-			"n0.0",
-			"n8.243983931695946E-4",
-			"n0.0",
-			"n-0.6501498197662721",
-			"n0.0",
-			"n0.0",
-			"n8.243983931695946E-4",
-			"n-0.23660233883967366"
-		],
-		"position": [
-			2437.046784989566,
-			788.6354766736231,
-			287.00000000000006
-		]
-	}
+  "bookmarks": {
+    "FigS4_31": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "(r=255,g=255,b=255,a=255)",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample4_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample4_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008243983931695946,
+          0.0,
+          0.0,
+          -2.0090974536245243,
+          0.0,
+          0.0008243983931695946,
+          0.0,
+          -0.6501498197662721,
+          0.0,
+          0.0,
+          0.0008243983931695946,
+          -0.23660233883967366
+        ]
+      }
+    }
+  }
 }

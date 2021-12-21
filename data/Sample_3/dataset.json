@@ -1,0 +1,57 @@
+{
+  "is2D": false,
+  "sources": {
+    "Sample3_image": {
+      "image": {
+        "imageData": {
+          "bdv.n5": {
+            "relativePath": "images/local/Sample3_image.xml"
+          }
+        }
+      }
+    }
+  },
+  "views": {
+    "Sample3_image": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample3_image",
+            "opacity": 1.0,
+            "sources": [
+              "Sample3_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "images"
+    },
+    "default": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample3_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample3_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
+    }
+  }
+}

@@ -5,7 +5,7 @@
       "image": {
         "imageData": {
           "bdv.n5": {
-            "relativePath": "images/local/Sample8_control_image.xml"
+            "relativePath": "images/bdv-n5/Sample8_control_image.xml"
           }
         }
       }

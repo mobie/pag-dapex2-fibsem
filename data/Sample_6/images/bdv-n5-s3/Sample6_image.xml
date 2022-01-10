@@ -1,12 +1,6 @@
 <SpimData version="0.2">
   <BasePath type="relative">.</BasePath>
   <SequenceDescription>
-    <ImageLoader format="bdv.n5.s3">
-      <Key>Sample_6/images/bdv-n5/Sample6_image.n5</Key>
-      <SigningRegion>us-west-2</SigningRegion>
-      <ServiceEndpoint>s3.embl.de</ServiceEndpoint>
-      <BucketName>pag-dapex2-fibsem</BucketName>
-    </ImageLoader>
     <ViewSetups>
       <ViewSetup>
         <id>0</id>
@@ -31,6 +25,12 @@
       <first>0</first>
       <last>0</last>
     </Timepoints>
+    <ImageLoader format="bdv.n5.s3">
+      <Key>Sample_6/images/bdv-n5/Sample6_image.n5</Key>
+      <SigningRegion>us-west-2</SigningRegion>
+      <ServiceEndpoint>s3.embl.de</ServiceEndpoint>
+      <BucketName>pag-dapex2-fibsem</BucketName>
+    </ImageLoader>
   </SequenceDescription>
   <ViewRegistrations>
     <ViewRegistration timepoint="0" setup="0">

@@ -2,7 +2,7 @@
   <BasePath type="relative">.</BasePath>
   <SequenceDescription>
     <ImageLoader format="bdv.n5.s3">
-      <Key>Sample_3/images/local/Sample3_image.n5</Key>
+      <Key>Sample_3/images/bdv-n5/Sample3_image.n5</Key>
       <SigningRegion>us-west-2</SigningRegion>
       <ServiceEndpoint>s3.embl.de</ServiceEndpoint>
       <BucketName>pag-dapex2-fibsem</BucketName>

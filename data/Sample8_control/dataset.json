@@ -15,6 +15,43 @@
     }
   },
   "views": {
+    "FigS3_b": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample8_control_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample8_control_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0004790866549345403,
+          -7.627906675745883e-21,
+          0.0,
+          -1.3478971125151855,
+          7.627906675745883e-21,
+          0.0004790866549345403,
+          0.0,
+          -0.2622146158664401,
+          0.0,
+          0.0,
+          0.0004790866549345403,
+          -0.770171632943776
+        ]
+      }
+    },
     "Sample8_control_image": {
       "isExclusive": false,
       "sourceDisplays": [
@@ -55,6 +92,43 @@
         }
       ],
       "uiSelectionGroup": "bookmark"
+    },
+    "test": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample8_control_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample8_control_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0020518678835831023,
+          2.0707780778059492e-19,
+          -1.7256483981716258e-19,
+          -1.4180770709421417,
+          -2.0707780778059509e-19,
+          0.0020518678835831023,
+          -9.318501350126778e-19,
+          -2.1068163854840023,
+          1.7256483981716253e-19,
+          9.318501350126778e-19,
+          0.0020518678835831023,
+          -2.040429347123179
+        ]
+      }
     }
   }
 }

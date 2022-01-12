@@ -15,6 +15,43 @@
     }
   },
   "views": {
+    "FigS3_a": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample7_control_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample7_control_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.001003765933306473,
+          0.0,
+          -5.507058653894625e-20,
+          -1.8557496463603476,
+          0.0,
+          0.001003765933306473,
+          -5.507058653894625e-20,
+          -0.9487028177196334,
+          0.0,
+          -5.507058653894625e-20,
+          0.001003765933306473,
+          -0.8255697888239033
+        ]
+      }
+    },
     "Sample7_control_image": {
       "isExclusive": false,
       "sourceDisplays": [

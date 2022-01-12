@@ -15,6 +15,265 @@
     }
   },
   "views": {
+    "FigS4_31": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample4_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample4_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008243983931695946,
+          0.0,
+          0.0,
+          -2.0090974536245243,
+          0.0,
+          0.0008243983931695946,
+          0.0,
+          -0.6501498197662721,
+          0.0,
+          0.0,
+          0.0008243983931695946,
+          -0.23660233883967366
+        ]
+      }
+    },
+    "FigS4_32.1": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample4_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample4_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008243983931695946,
+          0.0,
+          0.0,
+          -0.933912407973993,
+          0.0,
+          0.0008243983931695946,
+          0.0,
+          -0.5826740177829267,
+          0.0,
+          0.0,
+          0.0008243983931695946,
+          -0.9777364942991391
+        ]
+      }
+    },
+    "FigS4_32.2": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample4_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample4_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008243983931695946,
+          0.0,
+          0.0,
+          -1.0030816814444958,
+          0.0,
+          0.0008243983931695946,
+          0.0,
+          -0.6014179125523303,
+          0.0,
+          0.0,
+          0.0008243983931695946,
+          -1.1467381648989061
+        ]
+      }
+    },
+    "FigS4_33": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample4_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample4_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008243983931695946,
+          0.0,
+          0.0,
+          -0.9359094445209869,
+          0.0,
+          0.0008243983931695946,
+          0.0,
+          -0.6345694944670908,
+          0.0,
+          0.0,
+          0.0008243983931695946,
+          -0.4377555467730547
+        ]
+      }
+    },
+    "FigS4_34": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample4_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample4_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008243983931695946,
+          0.0,
+          0.0,
+          -1.117449684590976,
+          0.0,
+          0.0008243983931695946,
+          0.0,
+          -1.062575442470461,
+          0.0,
+          0.0,
+          0.0008243983931695946,
+          -0.3981844239009142
+        ]
+      }
+    },
+    "FigS4_35": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample4_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample4_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008243983931695946,
+          0.0,
+          0.0,
+          -2.064076308223168,
+          0.0,
+          0.0008243983931695946,
+          0.0,
+          -1.0717625858212916,
+          0.0,
+          0.0,
+          0.0008243983931695946,
+          -0.5655372977143418
+        ]
+      }
+    },
+    "FigS4_36": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample4_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample4_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.003297593572678378,
+          0.0,
+          0.0,
+          -7.573809373554478,
+          0.0,
+          0.003297593572678378,
+          0.0,
+          -3.0674795515072844,
+          0.0,
+          0.0,
+          0.003297593572678378,
+          -8.171436873097022
+        ]
+      }
+    },
     "Sample4_image": {
       "isExclusive": false,
       "sourceDisplays": [

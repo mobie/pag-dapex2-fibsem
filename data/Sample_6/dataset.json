@@ -15,6 +15,1005 @@
     }
   },
   "views": {
+    "F3_d_symmetric": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.002481325944730638,
+          0.0,
+          0.0,
+          -3.167087291352462,
+          0.0,
+          0.002481325944730638,
+          0.0,
+          -2.1954351971099433,
+          0.0,
+          0.0,
+          0.002481325944730638,
+          -2.384572908319293
+        ]
+      }
+    },
+    "Fig3_d_Vgat_PSN": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.001253238215619774,
+          0.0,
+          0.0,
+          -2.428598831492402,
+          0.0,
+          0.001253238215619774,
+          0.0,
+          -0.4376563869967654,
+          0.0,
+          0.0,
+          0.001253238215619774,
+          -2.391182519977033
+        ]
+      }
+    },
+    "FigS4_16": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -0.6408809695707754,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -0.729329562335495,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.444639169319523
+        ]
+      }
+    },
+    "FigS4_17": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -2.142048051701207,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -1.5993785566858563,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.610300627700182
+        ]
+      }
+    },
+    "FigS4_18": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -0.31411391137887,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -0.33629701510488674,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.3502299511025864
+        ]
+      }
+    },
+    "FigS4_19.1": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -0.41887855630724014,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -1.403290434955234,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -2.0394443610220043
+        ]
+      }
+    },
+    "FigS4_19.2": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -0.3258443660450243,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -1.2030445231593778,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -2.0430069730301903
+        ]
+      }
+    },
+    "FigS4_19.3": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0034914747855784,
+          0.0,
+          0.0,
+          -1.5719779090309092,
+          0.0,
+          0.0034914747855784,
+          0.0,
+          -2.0007690726432728,
+          0.0,
+          0.0,
+          0.0034914747855784,
+          -8.438894556742994
+        ]
+      }
+    },
+    "FigS4_20.1": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -1.1446555502801248,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -0.7979264395228973,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -0.8701679829994899
+        ]
+      }
+    },
+    "FigS4_20.2": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -1.8868715283141502,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -0.6671145275185482,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.2371170198426729
+        ]
+      }
+    },
+    "FigS4_21": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -0.767647513645435,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -0.9601426413839873,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.2032722057649037
+        ]
+      }
+    },
+    "FigS4_22.1": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -2.1609771231325188,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -0.6285700606472254,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.3217290550370964
+        ]
+      }
+    },
+    "FigS4_22.2": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -1.765795083389617,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -0.33651582110897993,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.7332107419826075
+        ]
+      }
+    },
+    "FigS4_23": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -1.284623656280381,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -0.21881404015988784,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -2.0796747597787197
+        ]
+      }
+    },
+    "FigS4_24": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -0.48531986458557247,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -0.23803578633154288,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -2.0422673336927644
+        ]
+      }
+    },
+    "FigS4_25": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -0.5438345935674095,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -0.811551327514711,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -2.0814560657828127
+        ]
+      }
+    },
+    "FigS4_26": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -1.243518033507293,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -1.0293082720222582,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -2.2444455651573336
+        ]
+      }
+    },
+    "FigS4_27": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -1.8005983428089058,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -1.664599602853674,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -0.16744276438475345
+        ]
+      }
+    },
+    "FigS4_28.1": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -2.4861823483806647,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -1.1986679270900504,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.2175226537976487
+        ]
+      }
+    },
+    "FigS4_28.2": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -2.487760277366339,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -1.286598986713996,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.2255385308160678
+        ]
+      }
+    },
+    "FigS4_28.3": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -2.4139992446546477,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -1.4006306287426475,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.2825403229470476
+        ]
+      }
+    },
+    "FigS4_28.4": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -2.4161905808876996,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -1.2192053094909208,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.3814028061742158
+        ]
+      }
+    },
+    "FigS4_28.5": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -2.587195957280639,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -1.0691010587707874,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.5443923055487365
+        ]
+      }
+    },
+    "FigS4_28.6": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -2.388497116499109,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -1.2736398693233586,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.419700885262218
+        ]
+      }
+    },
+    "FigS4_29": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -0.6538225248273227,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -0.9700043405538519,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.1248947415848065
+        ]
+      }
+    },
+    "FigS4_30.1": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -1.8877467523305227,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -0.898752100390127,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.4348419862970097
+        ]
+      }
+    },
+    "FigS4_30.2": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0.0,
+              255.0
+            ],
+            "name": "Sample6_image",
+            "opacity": 1.0,
+            "showImagesIn3d": false,
+            "sources": [
+              "Sample6_image"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark",
+      "viewerTransform": {
+        "normalizedAffine": [
+          0.0008906530020465609,
+          0.0,
+          0.0,
+          -1.8491835802814054,
+          0.0,
+          0.0008906530020465609,
+          0.0,
+          -0.8026167397275534,
+          0.0,
+          0.0,
+          0.0008906530020465609,
+          -1.413466314247892
+        ]
+      }
+    },
     "Sample6_image": {
       "isExclusive": false,
       "sourceDisplays": [

@@ -5,7 +5,7 @@
       "sourceDisplays": [
         {
           "imageDisplay": {
-            "color": "(r=255,g=255,b=255,a=255)",
+            "color": "(r=255.0,g=255.0,b=255.0,a=255.0)",
             "contrastLimits": [
               0.0,
               255.0

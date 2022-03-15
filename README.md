@@ -9,4 +9,4 @@ In order to load one of the data-sets in MoBIE, you need to [install the MoBIE F
 
 ## Reference
 
-For more details on the MoBIE and the MoBIE data format, visit https://mobie.github.io/.
+For more details on MoBIE and the MoBIE data format, visit https://mobie.github.io/.

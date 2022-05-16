@@ -10,8 +10,8 @@
         <name>Sample8_control_image</name>
         <size>3400 1736 2292</size>
         <voxelSize>
-          <unit>pixel</unit>
-          <size>1.0 1.0 1.0</size>
+          <unit>µm</unit>
+          <size>0.01 0.01 0.01</size>
         </voxelSize>
         <attributes>
           <channel>1</channel>
@@ -32,7 +32,7 @@
   <ViewRegistrations>
     <ViewRegistration timepoint="0" setup="0">
       <ViewTransform type="affine">
-        <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+        <affine>0.01 0.0 0.0 0.0 0.0 0.01 0.0 0.0 0.0 0.0 0.01 0.0</affine>
       </ViewTransform>
     </ViewRegistration>
   </ViewRegistrations>
